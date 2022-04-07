@@ -11,7 +11,7 @@ public class MiControlador {
 
 	@GetMapping("/mundo")
 	public String saludo(){
-		return("Hola Juan");
+		return("Hola Pedro");
 	}
 
 }
